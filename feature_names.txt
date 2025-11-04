@@ -1,0 +1,21 @@
+distance_miles
+duration_minutes
+hour
+day_of_week
+temperature
+driver_rating
+weather_Cloudy
+weather_Heavy Rain
+weather_Light Rain
+weather_Snow
+pickup_location_Business
+pickup_location_Downtown
+pickup_location_Entertainment
+pickup_location_Residential
+dropoff_location_Business
+dropoff_location_Downtown
+dropoff_location_Entertainment
+dropoff_location_Residential
+vehicle_type_Premium
+vehicle_type_Shared
+vehicle_type_Standard
